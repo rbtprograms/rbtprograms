@@ -1,5 +1,4 @@
 - 👋 sup im bobby
-- 🌱 current ECE student, hoping to focus on embedded systems and signal processing
 - 📫 rbtprograms AT gmail DOT com
 
 <!---
